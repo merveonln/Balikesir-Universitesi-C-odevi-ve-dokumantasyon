@@ -1,0 +1,13 @@
+C:\Users\zafer\Desktop\Staj_Dosyası\Proje_EgikAtıs_menzil\Proje_EgikAtıs_menzil\bin\Debug\netcoreapp3.1\Proje_EgikAtıs_menzil.exe
+C:\Users\zafer\Desktop\Staj_Dosyası\Proje_EgikAtıs_menzil\Proje_EgikAtıs_menzil\bin\Debug\netcoreapp3.1\Proje_EgikAtıs_menzil.deps.json
+C:\Users\zafer\Desktop\Staj_Dosyası\Proje_EgikAtıs_menzil\Proje_EgikAtıs_menzil\bin\Debug\netcoreapp3.1\Proje_EgikAtıs_menzil.runtimeconfig.json
+C:\Users\zafer\Desktop\Staj_Dosyası\Proje_EgikAtıs_menzil\Proje_EgikAtıs_menzil\bin\Debug\netcoreapp3.1\Proje_EgikAtıs_menzil.runtimeconfig.dev.json
+C:\Users\zafer\Desktop\Staj_Dosyası\Proje_EgikAtıs_menzil\Proje_EgikAtıs_menzil\bin\Debug\netcoreapp3.1\Proje_EgikAtıs_menzil.dll
+C:\Users\zafer\Desktop\Staj_Dosyası\Proje_EgikAtıs_menzil\Proje_EgikAtıs_menzil\bin\Debug\netcoreapp3.1\Proje_EgikAtıs_menzil.pdb
+C:\Users\zafer\Desktop\Staj_Dosyası\Proje_EgikAtıs_menzil\Proje_EgikAtıs_menzil\obj\Debug\netcoreapp3.1\Proje_EgikAtıs_menzil.csprojAssemblyReference.cache
+C:\Users\zafer\Desktop\Staj_Dosyası\Proje_EgikAtıs_menzil\Proje_EgikAtıs_menzil\obj\Debug\netcoreapp3.1\Proje_EgikAtıs_menzil.AssemblyInfoInputs.cache
+C:\Users\zafer\Desktop\Staj_Dosyası\Proje_EgikAtıs_menzil\Proje_EgikAtıs_menzil\obj\Debug\netcoreapp3.1\Proje_EgikAtıs_menzil.AssemblyInfo.cs
+C:\Users\zafer\Desktop\Staj_Dosyası\Proje_EgikAtıs_menzil\Proje_EgikAtıs_menzil\obj\Debug\netcoreapp3.1\Proje_EgikAtıs_menzil.csproj.CoreCompileInputs.cache
+C:\Users\zafer\Desktop\Staj_Dosyası\Proje_EgikAtıs_menzil\Proje_EgikAtıs_menzil\obj\Debug\netcoreapp3.1\Proje_EgikAtıs_menzil.dll
+C:\Users\zafer\Desktop\Staj_Dosyası\Proje_EgikAtıs_menzil\Proje_EgikAtıs_menzil\obj\Debug\netcoreapp3.1\Proje_EgikAtıs_menzil.pdb
+C:\Users\zafer\Desktop\Staj_Dosyası\Proje_EgikAtıs_menzil\Proje_EgikAtıs_menzil\obj\Debug\netcoreapp3.1\Proje_EgikAtıs_menzil.genruntimeconfig.cache
